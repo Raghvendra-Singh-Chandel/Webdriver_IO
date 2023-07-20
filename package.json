@@ -1,0 +1,21 @@
+{
+  "name": "webdriver_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:Raghvendra-Singh-Chandel/Webdriver_IO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^8.13.5",
+    "@wdio/junit-reporter": "^8.12.2"
+  }
+}
